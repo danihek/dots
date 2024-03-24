@@ -131,3 +131,5 @@ bindkey '5~' kill-word
 
 export GITHUB_TOKEN=""
 
+source "/usr/share/fzf/key-bindings.zsh"
+source "/usr/share/fzf/completion.zsh"
